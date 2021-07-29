@@ -1,0 +1,31 @@
+#search {
+    border: red;
+    border-radius: 50px;
+    font-size: 30px;
+    width: 200px;
+    border-color: red;
+    color: navy;
+}
+
+#add{
+    border: skyblue;
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    background-color: springgreen;
+    color: white;
+    font-size: 30px;
+}
+
+#create {
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 35px;
+    box-shadow: 3px 3px black;
+}
+
+* {
+    margin: 10px;
+    padding: -20px -20px -20px -20px;
+}
