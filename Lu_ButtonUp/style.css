@@ -1,15 +1,15 @@
 #search {
-    border: red;
+    border: solid turquoise;
     border-radius: 50px;
     font-size: 30px;
     width: 200px;
-    border-color: red;
-    color: navy;
+    
+    color: turquoise;
 }
 
 #add{
     border: skyblue;
-    border-radius: 25px;
+    border-radius: 50%;
     width: 50px;
     height: 50px;
     background-color: springgreen;
